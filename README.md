@@ -5,6 +5,9 @@
 # 💫 About Me:
 Hello! My name is Rohit Gupta & creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
 
+<img src="https://raw.githubusercontent.com/HpSurani1997/HpSurani1997/main/senior-software-engineer_Wy82tYQym.gif"/> <br/>
+
+
 Contact me: 📧 rohitg8812@gmail.com  <br/>
 Visit My Portfolio: https://rohitgupta.vercel.app/
 
