@@ -19,8 +19,8 @@ Visit My Portfolio: https://rohitgupta.vercel.app/
 # 📊 GitHub Stats:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitg8812" alt="rohitg8812" /></a> </p>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin:auto">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitg8812&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt=""Rohit Gupta's GitHub Stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitg8812&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 42%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitg8812&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt=""Rohit Gupta's GitHub Stats" style="width: 51%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitg8812&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 48%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitg8812&theme=dark&hide_border=false" alt="Rohit Gupta's GitHub Streak" style="width: 50%;">
 </div>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
