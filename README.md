@@ -10,7 +10,7 @@ Hello! My name is Rohit Gupta & creating things that live on the internet is a p
 
 Contact me: 📧 rohitg8812@gmail.com  <br/>
 Visit My Portfolio: https://next-portfolio-rohit.vercel.app/ <br>
-CV: https://drive.google.com/file/d/1HbpM2BlarPGWqhIibcfrTEfAcfdFTwpS/view?usp=drive_link
+CV: https://drive.google.com/file/d/1n90w2fj0-mgCZsZntBJAY16i2BRPh7QF/view?usp=sharing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-gupta-5189a6280/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RohitGupta84553) [![Insta](https://img.shields.io/badge/Instagram-E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/rohitg_8812/profilecard/?igsh=YzJibjB3cGNkZmY1)
